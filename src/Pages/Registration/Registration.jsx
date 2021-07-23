@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarAfter from "../../Components/Navbar/NavbarAfter";
 import UserRegistration from "../../Components/Registration/UserRegistration"
 
