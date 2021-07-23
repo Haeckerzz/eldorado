@@ -2,5 +2,4 @@ npm install bcryptjs
 npm install react-icons --save
 npm install react-bootstrap@next bootstrap@5.0.2
 npm install react-bootstrap-floating-label react
-
 Forgot password- simple
